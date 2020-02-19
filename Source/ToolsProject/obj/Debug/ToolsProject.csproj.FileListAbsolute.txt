@@ -1,0 +1,11 @@
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\bin\Debug\ToolsProject.exe.config
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\bin\Debug\ToolsProject.exe
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\bin\Debug\ToolsProject.pdb
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\obj\Debug\ToolsProject.csprojAssemblyReference.cache
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\obj\Debug\ToolsProject.FrameEditor.resources
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\obj\Debug\ToolsProject.Properties.Resources.resources
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\obj\Debug\ToolsProject.SpriteSelector.resources
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\obj\Debug\ToolsProject.csproj.GenerateResource.cache
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\obj\Debug\ToolsProject.csproj.CoreCompileInputs.cache
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\obj\Debug\ToolsProject.exe
+D:\MYDATA\Mydocuments\GitHub\SpriteAnimatorTool\ToolsProject\obj\Debug\ToolsProject.pdb
